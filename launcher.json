@@ -1,0 +1,11 @@
+{"data":{
+		"laucnher_vers": "1",
+		"name_vers": "1.1",
+		"dowloand": {
+			"launcher": "https://github.com/MKSRBB/mksrproject/raw/MKSR/launcher/launcher_1.exe",
+			"other":[
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/launcher/image_lang.zip"
+			]
+		}
+	}
+}
