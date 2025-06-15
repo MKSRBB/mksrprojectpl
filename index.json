@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "ico_url": "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/STADV_img.png",
+      "ico_url": "https://github.com/MKSRBB/mksrprojectpl/raw/MKSR/modpack/STADV_img.png",
       "name": {
         "Українська": ["Міжзоряні пригоди", "12"],
         "English": ["Interstellar adventures", "12"],
@@ -20,9 +20,9 @@
         "id": "STADV",
         "vers": "1",
         "url": [
-          "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/stadv_part1.zip",
-          "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/stadv_part2.zip",
-          "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/stadv_part3.zip"
+          "https://github.com/MKSRBB/mksrprojectpl/raw/MKSR/modpack/stadv_part1.zip",
+          "https://github.com/MKSRBB/mksrprojectpl/raw/MKSR/modpack/stadv_part2.zip",
+          "https://github.com/MKSRBB/mksrprojectpl/raw/MKSR/modpack/stadv_part3.zip"
         ],
         "id_addition": "1.12.2-14.23.5.2860"
       }
